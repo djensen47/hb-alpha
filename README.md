@@ -1,6 +1,11 @@
 # HarpJS Boilerplate for Alpha by HTML5 UP
 
+This version of the Alpha HTML5 UP template has been modified to work with [Harp JS](http://harpjs.com/). 
+
+This Harp boilerplate was built using Jade for HTML templating and Sass for the CSS using the original HTML5 UP SCSS files.
+
 ## Original README.txt
+
     Alpha by HTML5 UP
     html5up.net | @n33co
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
