@@ -1,8 +1,11 @@
-body
-  // Header
-  != partial("_header", {headerClass: "skel-layers-fixed"})
+extends _main
 
-  // Main
-  block content
+block body
+  body
+    // Header
+    != partial("_header", {headerClass: "skel-layers-fixed"})
 
-  block cta
+    // Main
+    block content
+
+    block cta
